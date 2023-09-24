@@ -354,7 +354,7 @@ height: 25rem;
     justify-content: center;
 }
 .loader-container.active{
-    display: block;
+    display: flex;
 
 }
 .loader-container img{
